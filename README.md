@@ -7,5 +7,4 @@
 
 4.Deploying using Streamlit 
 
-5.Deploying using Dockers and Kubernetes
 
