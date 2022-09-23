@@ -3,8 +3,6 @@
 
 2.Deploying using Flask and Flasgger 
 
-3.Deploying using Flask and Dockers 
-
-4.Deploying using Streamlit 
+3.Deploying using Streamlit 
 
 
